@@ -23,3 +23,5 @@ This project is intended for **learning purposes only**. Do not use this scraper
 ### Ethical Web Scraping:
 - Avoid overwhelming servers with rapid requests.
 - Use appropriate rate limiting and headers in your HTTP requests to identify your scraper.
+
+
