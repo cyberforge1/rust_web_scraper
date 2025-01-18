@@ -6,5 +6,4 @@ rust_web_scraper/
     ├── main.rs      # Entry point for the scraper
     ├── scraper.rs   # Scraper logic (modularized)
     └── utils.rs     # Utility functions (e.g., HTTP client setup)
-
-    ```
+```
